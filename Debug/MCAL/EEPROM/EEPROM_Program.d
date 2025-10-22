@@ -1,0 +1,20 @@
+MCAL/EEPROM/EEPROM_Program.o MCAL/EEPROM/EEPROM_Program.o:  \
+ ../MCAL/EEPROM/EEPROM_Program.c ../MCAL/EEPROM/EEPROM_Config.h \
+  ../MCAL/EEPROM/EEPROM_Interface.h ../MCAL/EEPROM/../../LIB/BIT_MATH.h \
+  ../MCAL/EEPROM/../../LIB/STD_TYPES.h ../MCAL/EEPROM/EEPROM_Private.h \
+  ../MCAL/EEPROM/../../MCAL/DIO/DIO_Interface.h \
+  ../MCAL/EEPROM/../../MCAL/DIO/../../LIB/STD_TYPES.h
+
+../MCAL/EEPROM/EEPROM_Config.h:
+
+../MCAL/EEPROM/EEPROM_Interface.h:
+
+../MCAL/EEPROM/../../LIB/BIT_MATH.h:
+
+../MCAL/EEPROM/../../LIB/STD_TYPES.h:
+
+../MCAL/EEPROM/EEPROM_Private.h:
+
+../MCAL/EEPROM/../../MCAL/DIO/DIO_Interface.h:
+
+../MCAL/EEPROM/../../MCAL/DIO/../../LIB/STD_TYPES.h:
